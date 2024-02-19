@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/kist.png</file>
+        <file>res/kist.ico</file>
+    </qresource>
+</RCC>
